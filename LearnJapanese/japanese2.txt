@@ -1,0 +1,27 @@
+﻿おんせん,Suối nước nóng
+かわ,Sông
+やま,Núi
+きょうかい,Nhà thờ
+おしろ,Lâu đài
+じんじゃ,Đền
+おてら,Chùa
+ビ́,Tòa nhà
+ところ, Nơi/chỗ
+ひと,Người
+みどり, Màu xanh; Cây xanh
+あります［ある］,Có
+あたらしい,Mới
+ふるい,Cũ
+いい,Tốt
+(～が）おおい,Nhiều ～
+(～が）すくない,Ít ～
+おおきい, To/lớn
+ちいさい,Nhỏ/bé
+たかい,Cao/đắt
+ひくい,Thấp
+きれい（な） ,Đẹp/sạch sẽ
+しずか,Yên tĩnh
+にぎやか（な）,Náo nhiệt, nhộn nhịp
+(な） ゆうめい,Nổi tiếng
+どんな,Như thế nào
+そして,Và

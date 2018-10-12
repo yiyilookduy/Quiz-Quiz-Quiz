@@ -1,0 +1,16 @@
+﻿きた,Phía bắc
+みなみ,Phía nam
+ひがし,Phía đông
+にし,Phía tây
+まんなか,Chính giữa
+くるま,Ô tô
+しんかんせん,Tàu cao tốc Shinkansen
+でんしゃ,Tàu điện
+ひこうき,Máy bay
+えき,Nhà ga
+まち,Thành phố, thị trấn
+～じかん,～Tiếng
+～ふん,～ Phút
+あるいて,Đi bộ
+～くらい,Khoảng
+どのくらい,Bao lâu 

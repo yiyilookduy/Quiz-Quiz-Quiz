@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnJapanese", "LearnJapanese\LearnJapanese.csproj", "{20E829F9-6C21-4BF0-89AC-9B7BD11CCECD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnJapanese.Test", "LearnJapanese.Test\LearnJapanese.Test.csproj", "{3102E75B-876C-44ED-926F-F5DF3F53EF4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queries", "..\FirstLINQ\Queries\Queries.csproj", "{08E06EDC-9669-4828-A11B-B8A75E37E205}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YiyilookGhtk", "D:\ProjectCSharp\ManagementShop\YiyilookGhtk\YiyilookGhtk.csproj", "{77D2FD8F-7583-4910-B54D-D4B7277E243C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20E829F9-6C21-4BF0-89AC-9B7BD11CCECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20E829F9-6C21-4BF0-89AC-9B7BD11CCECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20E829F9-6C21-4BF0-89AC-9B7BD11CCECD}.Debug|x64.ActiveCfg = Debug|x64
+		{20E829F9-6C21-4BF0-89AC-9B7BD11CCECD}.Debug|x64.Build.0 = Debug|x64
+		{20E829F9-6C21-4BF0-89AC-9B7BD11CCECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20E829F9-6C21-4BF0-89AC-9B7BD11CCECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20E829F9-6C21-4BF0-89AC-9B7BD11CCECD}.Release|x64.ActiveCfg = Release|x64
+		{20E829F9-6C21-4BF0-89AC-9B7BD11CCECD}.Release|x64.Build.0 = Release|x64
+		{3102E75B-876C-44ED-926F-F5DF3F53EF4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3102E75B-876C-44ED-926F-F5DF3F53EF4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3102E75B-876C-44ED-926F-F5DF3F53EF4D}.Debug|x64.ActiveCfg = Debug|x64
+		{3102E75B-876C-44ED-926F-F5DF3F53EF4D}.Debug|x64.Build.0 = Debug|x64
+		{3102E75B-876C-44ED-926F-F5DF3F53EF4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3102E75B-876C-44ED-926F-F5DF3F53EF4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3102E75B-876C-44ED-926F-F5DF3F53EF4D}.Release|x64.ActiveCfg = Release|x64
+		{3102E75B-876C-44ED-926F-F5DF3F53EF4D}.Release|x64.Build.0 = Release|x64
+		{08E06EDC-9669-4828-A11B-B8A75E37E205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08E06EDC-9669-4828-A11B-B8A75E37E205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08E06EDC-9669-4828-A11B-B8A75E37E205}.Debug|x64.ActiveCfg = Debug|x64
+		{08E06EDC-9669-4828-A11B-B8A75E37E205}.Debug|x64.Build.0 = Debug|x64
+		{08E06EDC-9669-4828-A11B-B8A75E37E205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08E06EDC-9669-4828-A11B-B8A75E37E205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08E06EDC-9669-4828-A11B-B8A75E37E205}.Release|x64.ActiveCfg = Release|x64
+		{08E06EDC-9669-4828-A11B-B8A75E37E205}.Release|x64.Build.0 = Release|x64
+		{77D2FD8F-7583-4910-B54D-D4B7277E243C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D2FD8F-7583-4910-B54D-D4B7277E243C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D2FD8F-7583-4910-B54D-D4B7277E243C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{77D2FD8F-7583-4910-B54D-D4B7277E243C}.Debug|x64.Build.0 = Debug|Any CPU
+		{77D2FD8F-7583-4910-B54D-D4B7277E243C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D2FD8F-7583-4910-B54D-D4B7277E243C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77D2FD8F-7583-4910-B54D-D4B7277E243C}.Release|x64.ActiveCfg = Release|Any CPU
+		{77D2FD8F-7583-4910-B54D-D4B7277E243C}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64F2C2EA-77A3-4EB7-92E7-41AB8288B77E}
+	EndGlobalSection
+EndGlobal
